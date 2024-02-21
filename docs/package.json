@@ -14,7 +14,7 @@
     "@element-plus/metadata": "workspace:*",
     "@vue/shared": "^3.2.37",
     "@vueuse/core": "^9.1.0",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "clipboard-copy": "^4.0.1",
     "element-plus": "npm:element-plus@latest",
     "markdown-it": "^13.0.1",
